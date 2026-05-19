@@ -1,0 +1,6 @@
+{
+  "name": "TrendTrack Analytics",
+  "description": "Interactive sales dashboard for TrendTrack apparel, featuring revenue trends, product performance, and payment analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
